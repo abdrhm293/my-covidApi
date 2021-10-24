@@ -1,0 +1,15 @@
+com\app\repository\covid\CovidCasesRepository.class
+com\app\service\covid\CovidBonusService.class
+com\app\repository\covid\CovidCasesDescRepository.class
+com\app\controller\CovidController.class
+com\app\StartCovidApplication.class
+com\app\service\covid\CovidBonusServiceImpl.class
+com\app\config\WebConfiguration.class
+test\LombokTest.class
+com\app\service\covid\CovidService.class
+com\app\controller\MyCovidController.class
+com\app\service\covid\CovidServiceImpl.class
+com\app\service\covid\api\CovidMiningApiTotalCasesImpl.class
+com\app\service\covid\api\CovidMiningAPITotalCases.class
+com\app\controller\CovidBonusController.class
+com\app\repository\covid\CovidCasesBonusRepository.class
